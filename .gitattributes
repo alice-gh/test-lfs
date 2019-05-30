@@ -1,1 +1,2 @@
 simspons.jpg filter=lfs diff=lfs merge=lfs -text
+cat.bin filter=lfs diff=lfs merge=lfs -text
